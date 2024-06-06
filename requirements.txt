@@ -1,0 +1,3 @@
+scratchattach
+groq
+python-dotenv
