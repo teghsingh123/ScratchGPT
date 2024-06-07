@@ -5,7 +5,7 @@ Good for bypassing ChatGPT block on school computers
 
 How to use:
 
-1. Download the code and install packages in requirements.txt
+1. Download the code and install packages in requirements.txt (pip install -r requirements.txt)
 
 2. Upload it to any IDE (VSCODE, REPL, etc.)
 
@@ -15,7 +15,7 @@ How to use:
 
 5. Copy your API Key
 
-6. RUN app.py
+6. RUN main.py
 
 7. Open http://127.0.0.1:5000/
 
