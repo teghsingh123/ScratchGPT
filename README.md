@@ -7,7 +7,7 @@ How to use:
 
 1. Download the code and install packages in requirements.txt (pip install -r requirements.txt)
 
-2. Upload it to any IDE (VSCODE, REPL, etc.)
+2. Upload it to any IDE (VSCODE,e tc.) DO NOT USE REPL.IT. IT DOES NOT WORK AS SCRATCH HAS BANNED THE REPLIT IP FROM LOGGING INTO SCRATCH
 
 3. Make a copy of https://scratch.mit.edu/projects/1032093853
 
