@@ -5,7 +5,7 @@ Good for bypassing ChatGPT block on school computers
 
 How to use:
 
-1. Download the code and
+1. Download the code and install packages in requirements.txt
 
 2. Upload it to any IDE (VSCODE, REPL, etc.)
 
