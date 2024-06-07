@@ -29,4 +29,4 @@ How to use:
 
 12. Don't get caught
 
-Code developed entirely by m
+Code developed entirely by me, TEGH SINGH 2024
