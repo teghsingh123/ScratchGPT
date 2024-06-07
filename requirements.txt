@@ -1,0 +1,4 @@
+scratchattach
+flask
+groq
+python-dotenv
